@@ -12,6 +12,13 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 2. Slides:  [Tutorial Part (II)](../lecture/intro-to-R_part2.R)
 3. Slides:  [Tutorial Part (III)](../lecture/intro-to-R_part3.Rmd)
 
+#### Datacamp Courses
+
+1. [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+
+
 ### Introduction to R Markdown
 
 1. Slides:  [Tutorial Part (IV)](../lecture/intro-to-R_part4.Rmd)
+
+

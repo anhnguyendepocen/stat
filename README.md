@@ -1,7 +1,7 @@
 
 # Econ 5023: Statistics for Decision Making (Schedule)
 
-Note that this schedule is subject to change and will updated throughout the semester. 
+Note that this schedule is subject to change and will be updated throughout the semester. 
 
 
 |         |          |                                                                                                    |            | 
