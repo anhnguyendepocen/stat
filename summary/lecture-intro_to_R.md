@@ -21,4 +21,6 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 
 1. Slides:  [Tutorial Part (IV)](../lecture/intro-to-R_part4.Rmd)
 
+#### Datacamp Courses
 
+1. [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
