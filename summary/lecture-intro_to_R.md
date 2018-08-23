@@ -4,7 +4,14 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 
 ## Reading and Useful Resources
 
-### Required Reading
+### Introduction to R and R studio
 
-1. Slides: [Tutorial Part (I)](../lecture/intro-to-R_part1.pdf). Part of the slides were adapted from 
+#### Required Readings
 
+1. Slides: [Tutorial Part (I)](../lecture/intro-to-R_part1.pdf). Part of the slides were adapted from [Robin Donatello's notes](https://norcalbiostat.netlify.com/post/software-overview/)
+2. Slides:  [Tutorial Part (II)](../lecture/intro-to-R_part2.R)
+3. Slides:  [Tutorial Part (III)](../lecture/intro-to-R_part3.Rmd)
+
+### Introduction to R Markdown
+
+1. Slides:  [Tutorial Part (IV)](../lecture/intro-to-R_part4.Rmd)
