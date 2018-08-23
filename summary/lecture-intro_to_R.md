@@ -19,7 +19,10 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 
 ### Introduction to R Markdown
 
+#### Required Readings
+
 1. Slides:  [Tutorial Part (IV)](../lecture/intro-to-R_part4.Rmd)
+2. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): Chapters 1 an 2.1-2.6.
 
 #### Datacamp Courses
 
