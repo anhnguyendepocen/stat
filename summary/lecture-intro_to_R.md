@@ -6,5 +6,5 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 
 ### Required Reading
 
-1. Slides: [Tutorial Part (I)](../lectures/intro-to-R_part1.pdf). Part of the slides were adapted from 
+1. Slides: [Tutorial Part (I)](../lecture/intro-to-R_part1.pdf). Part of the slides were adapted from 
 
