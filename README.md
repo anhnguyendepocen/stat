@@ -8,7 +8,7 @@ Note that this schedule is subject to change and will updated throughout the sem
 |---------|----------|----------------------------------------------------------------------------------------------------|------------| 
 | Lecture | Date     | Content                                                                                            | Evaluation | 
 |         |          |                                                                                                    |            | 
-| 1       | 8/20/18  | Syllabus, Broad Introduction to class [details](summary/lecture-intro-to_R.md)                     |            | 
+| 1       | 8/20/18  | Syllabus, Broad Introduction to class [details](summary/lecture-intro_to_R.md)                     |            | 
 |         |          |                                                                                                    |            | 
 | 2       | 8/22/18  | Introduction to R and R Markdown                                                                   | Quiz 1     | 
 |         |          |                                                                                                    |            | 
