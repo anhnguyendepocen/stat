@@ -10,6 +10,8 @@ You can register for access [here](https://cps.ipums.org/cps-action/menu).
 
 ### Install R and R Studio
 
+This installation instruction is put together by [Robin Donatello](https://norcalbiostat.netlify.com/)
+
 #### Windows
 
 * Download R from https://cran.r-project.org/bin/windows/base/ 
