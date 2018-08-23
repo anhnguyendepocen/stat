@@ -1,6 +1,6 @@
 ## Detailed Topics to be covered
 
-Please download the check list [here](../checklist/intro-to-R.docx) to see what .
+Please download the check list [here](../checklist/intro-to-R.docx) to see what will be covered.
 
 ## Reading and Useful Resources
 
