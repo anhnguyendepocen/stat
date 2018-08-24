@@ -16,6 +16,9 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 
 1. [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
+#### Useful Resources
+
+1. [Google R Style](https://google.github.io/styleguide/Rguide.xml)
 
 ### Introduction to R Markdown
 
