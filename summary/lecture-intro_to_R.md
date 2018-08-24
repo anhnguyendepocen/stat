@@ -15,6 +15,8 @@ Please download the check list [here](../checklist/intro-to-R.docx) to see what 
 #### Datacamp Courses
 
 1. [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+2. [Working with R Studio IDE (Part I)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1)
+3. [Working with R Studio IDE (Part II)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-2)
 
 #### Useful Resources
 
