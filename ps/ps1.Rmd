@@ -1,0 +1,36 @@
+---
+title: 'Homework #1'
+author: "Le Wang"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question 1
+
+Debates about many important issues involve references to statistics. Many statistics that you hear from the media may or may not be correct. As an economist, however, you should be able to obtain some of such relevant data, conduct your own analysis, and evaluate some of the claims on your own. Below is a short list of the statistics regarding economic conditions under President Obama.
+
+1. Lowest labor forceparticipation rate since 1970s
+2. Almost 95M Americans out of the labor force
+3. Worst economic recovery since 1940s
+4. Lowest home ownership rate in 51 years
+5. Almost 13M more Americans on food stamps (Note that food stamps are called SNAP now)
+
+Try your best to find and download the data corresponding using the `quantmod()` package (try read the help file yourself). 
+
+But here let me give you an example first. Suppose that you are intersted in **Civilian Labor Force Participation Rate**. Google "fred lowest labor force participation". You will be led to the website <https://fred.stlouisfed.org/series/CIVPART>. The last part of the web address is the name of the data for labor force participation rates. And you can obtain by typing the following command 
+
+```{r, message=FALSE}
+library(quantmod)
+getSymbols('CIVPART',src='FRED')
+```
+
+Plot the graph for each variable and evaluate these claims. Also, present them in a coherent way to show your own view of economic conditions under President Obama. Do we have the data for Trump's administration? If so, how about them?
+
+Answer these questions using a R Markdown file.
+
+## Question 2
+
+To test whether you have gone through the Data Camp course and learned how to use R Markdown, please also complete the R markdown file called `ps1_datacamp.Rmd` available [here](ps1_datacamp.Rmd). 
