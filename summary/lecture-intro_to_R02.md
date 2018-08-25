@@ -28,7 +28,7 @@
 
 1. Slides:  [Tutorial Part (III): ](../lecture/intro-to-R_part3.Rmd)
 2. Slides:  [Tutorial Part (IV): ](../lecture/intro-to-R_part4.pptx)
-3. Download folder organization template [here](examples/teaching_folder_organization_template.R)
+3. Download folder organization template [here](../lecture/examples/teaching_folder_organization_template.R)
 4. Slides:  [Tutorial Part (V): ](../lecture/intro-to-R_part5.Rmd) 
 
 ### Datacamp Courses
