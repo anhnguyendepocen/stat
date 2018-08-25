@@ -141,7 +141,4 @@
     
     # To remove all variables in memory:
     rm(list=ls())
-    
-    
-    
-  
+

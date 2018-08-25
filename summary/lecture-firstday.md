@@ -1,18 +1,18 @@
-## Detailed Topics to be covered
+# Detailed Topics to be covered
 
 Please download the syllabus [here](../syllabus/ec5023_syllabus.pdf) to see what will be covered.
 
-## Before next class
+# Before next class
 
-### Resiter for access at IPUMS
+## Resiter for access at IPUMS
 
 You can register for access [here](https://cps.ipums.org/cps-action/menu).
 
-### Install R and R Studio
+## Install R and R Studio
 
 This installation instruction is put together by [Robin Donatello](https://norcalbiostat.netlify.com/)
 
-#### Windows
+### Windows
 
 * Download R from https://cran.r-project.org/bin/windows/base/ 
 * Download **R Studio Desktop (Free License)** from http://www.rstudio.com/products/rstudio/download2/
@@ -21,7 +21,7 @@ Double clicking on these will start the standard installation process.
 
 [Video walkthrough](http://www.youtube.com/watch?v=Ohnk9hcxf9M)
 
-#### Macintosh 
+### Macintosh 
 
 * Download R from https://cran.r-project.org/bin/macosx/
 * Download **R Studio Desktop (Free License)** from http://www.rstudio.com/products/rstudio/download2/
