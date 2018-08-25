@@ -13,7 +13,7 @@
 ### Required Readings
 
 1. Slides:  [Tutorial Part (VI)](../lecture/intro-to-R_part6.Rmd)
-2. [In Calss Example](lecture/examples/intro-to-R-markdown-example.Rmd)
+2. [In Calss Example](../lecture/examples/intro-to-R-markdown-example.Rmd)
 2. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): Chapters 1 an 2.1-2.6.
 
 ### Datacamp Courses
