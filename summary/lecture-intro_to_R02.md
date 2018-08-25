@@ -43,10 +43,10 @@
 3. [Importing and Managing Financial Data in `R`](https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r)
 4. [Clearning Data in `R`](https://www.datacamp.com/courses/cleaning-data-in-r)
 5. [Working with Web Data in `R`](https://www.datacamp.com/courses/working-with-web-data-in-r)
-6. [Importing and Cleaning Data in R: Case Studies](https://www.datacamp.com/courses/importing-cleaning-data-in-r-case-studies)
+6. [Importing and Cleaning Data in `R`: Case Studies](https://www.datacamp.com/courses/importing-cleaning-data-in-r-case-studies)
 7. [Working with Data in the Tidyverse](https://www.datacamp.com/courses/working-with-data-in-the-tidyverse)
 
 ### Useful Resources
 
-1. [Quantmod: Quantitative Financial Modelling & Trading Framework for R
+1. [Quantmod: Quantitative Financial Modelling & Trading Framework for `R`
  ](https://www.quantmod.com)
