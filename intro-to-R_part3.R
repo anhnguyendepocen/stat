@@ -91,8 +91,26 @@
 	
 	matrix
 	
-# 4. Dataframe
-# What's a data frame?
+# 4. Lists
+	
+#	`R` doesn’t like vectors to have different types: `c(TRUE, 1, "Frank")` becomes
+# `c("TRUE", "1", "Frank")`. But storing objects with different types is absolutely 
+# fundamental to data analysis. `R` has a different type of object besides a vector 
+# used to store data of different types side-by-side: a list:
+	  
+	c(TRUE, 1, "Frank")
+
+	x <- list(TRUE, 1, "Frank")
+	x
+
+	
+# Many different things not necessarily of same length can be put together. 
+	
+	x <- list(c(1:5), c("a", "b","c"), c(TRUE, FALSE), c(5L, 6L))
+
+	
+# 5. Dataframe
+# What's a data frame? (special case of list equal length)
 
 # Our data often contain various types of data or variables. For example, in the CPS data that you will 
 # be dealing with, you will have information on income (numeric), gender (logical), race (string)
