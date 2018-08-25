@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In class, you can download this set of code [here](lecture/intro-to-R_part5.R)
+In class, you can download this set of code [here](intro-to-R_part5.R)
 
 # Read Data
 

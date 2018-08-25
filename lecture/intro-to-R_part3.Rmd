@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In class, you can download this set of code [here](lecture/intro-to-R_part3.R)
+In class, you can download this set of code [here](intro-to-R_part3.R)
 
 
 # Data types in `R`
