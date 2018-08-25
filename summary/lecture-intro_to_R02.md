@@ -48,5 +48,6 @@
 
 ### Useful Resources
 
-1. [Quantmod: Quantitative Financial Modelling & Trading Framework for `R`
+1. [Cheatsheets for Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+2. [Quantmod: Quantitative Financial Modelling & Trading Framework for `R`
  ](https://www.quantmod.com)

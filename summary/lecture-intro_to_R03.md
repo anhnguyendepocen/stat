@@ -21,4 +21,5 @@
 
 ### Useful Resources
 
-1. [Convert CSV to Markdown Tables](https://donatstudios.com/CsvToMarkdownTable)
+1. [Cheatsheets for R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+2. [Convert CSV to Markdown Tables](https://donatstudios.com/CsvToMarkdownTable)
