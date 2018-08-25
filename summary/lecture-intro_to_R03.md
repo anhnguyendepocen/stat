@@ -13,6 +13,7 @@
 ### Required Readings
 
 1. Slides:  [Tutorial Part (VI)](../lecture/intro-to-R_part6.Rmd)
+2. [In Calss Example](lecture/examples/intro-to-R-markdown-example.Rmd)
 2. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): Chapters 1 an 2.1-2.6.
 
 ### Datacamp Courses
@@ -23,3 +24,4 @@
 
 1. [Cheatsheets for R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
 2. [Convert CSV to Markdown Tables](https://donatstudios.com/CsvToMarkdownTable)
+3. [Using R Markdown for Class Reports](http://www.stat.cmu.edu/~cshalizi/rmarkdown/)

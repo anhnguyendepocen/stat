@@ -1,0 +1,155 @@
+---
+title: 'R Markdown: An Example'
+author: "Le Wang"
+date: "8/25/2018"
+output: 
+  pdf_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You can also find many useful examples online, for example, <http://www.stat.cmu.edu/~cshalizi/rmarkdown/>
+
+# Title, Author, Date, Output Format, Table of Contents
+
+You can specify things like title, author and date in the **header** of your
+R Markdown file.  This goes at the very beginning of the file, preceded
+and followed by lines containing three dashes.  Thus the beginning of
+this file looks like so:
+
+```
+---
+title: Using R Markdown for Class Reports
+author: Cosma Shalizi
+date: First version 7 January 2016, revision of 22 August 2016
+output:
+  pdf_document:
+    toc: true
+---
+```
+# Header 
+
+It is done by keep adding many `#`s
+
+```
+##
+###
+###
+```
+
+# Text
+
+This is an R Markdown document. *Markdown* is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+x<-1+1
+x2 <- x^3
+x
+```
+
+Lets show what x2 is: `r x2` (in line R code). I do not need to type the answer myself!
+
+
+```{r cars}
+summary(cars)
+```
+
+## Lists
+
+From this output, you find the following results
+
+* blah blah
+* allalalla
+* dododdo
+
+Or, you would like to number them
+
+1. blah blah
+2. allalalla
+3. dododdo
+
+Or, you could have many levels by indenting (double tabs)
+
+1. blah blah
+2. allalalla
+3. dododdo
+    * blah blah
+    * allalalla
+    * dododdo
+
+## Computer Type
+
+Text to be printed in a fixed-width font, without further interpretation, goes
+in paired left-single-quotes, a.k.a. "back-ticks", without line breaks in your
+typing.  (Thus `R` vs. R.)
+
+
+You can also quote me
+
+> This class sucks    - Le Wang
+
+# Hyperlinks and Images
+
+## Hyperlinks
+
+Hyperlinks anchored by URLs are easy: just type the URL, as, e.g.,
+<http://www.lewangecon.com> to get the source
+file for this document. Or, it is available [here](http://www.lewangecon.com)
+
+## Images
+
+```
+![My picture](examples/mypicture.png)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+### Changing Image Sizes and Alignments
+
+
+```{r pressure2, echo=FALSE, fig.height=4, fig.width=3, fig.align="center"}
+plot(pressure)
+```
+
+# Math in Markdown
+
+$$
+e^{i \pi} = -1
+$$
+
+
+$$
+\frac{a+b}{b} = 1 + \frac{a}{b}
+$$
+
+$$
+\begin{aligned}
+X & \sim & \mathrm{N}(0,1)\\
+Y & \sim & \chi^2_{n-p}\\
+R & \equiv & X/Y \sim t_{n-p}
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+P(|X-\mu| > k) & = & P(|X-\mu|^2 > k^2)\\
+& \leq & \frac{\mathbb{E}\left[|X-\mu|^2\right]}{k^2}\\
+& \leq & \frac{\mathrm{Var}[X]}{k^2}
+\end{aligned}
+$$
+

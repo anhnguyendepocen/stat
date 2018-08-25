@@ -6,6 +6,7 @@
 2. Data: A collection of data points
     - Vectors
     - Matrix
+    - List
     - Data Frame
 3. Communicating with R (I): Get something for you.
     - Working Directory (How to check or set working director?)
