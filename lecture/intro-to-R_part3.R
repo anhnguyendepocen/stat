@@ -110,7 +110,7 @@
 
 	
 # 5. Dataframe
-# What's a data frame? (special case of list equal length)
+# What's a data frame? (special case of list: equal length)
 
 # Our data often contain various types of data or variables. For example, in the CPS data that you will 
 # be dealing with, you will have information on income (numeric), gender (logical), race (string)
