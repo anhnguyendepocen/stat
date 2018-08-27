@@ -11,7 +11,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-You can also find many useful examples online, for example, <http://www.stat.cmu.edu/~cshalizi/rmarkdown/>
+You can also find many useful examples online, for example, 
+
+1. [Tutorials from R studio](https://rmarkdown.rstudio.com/authoring_basics.html)
+2. <http://www.stat.cmu.edu/~cshalizi/rmarkdown/>
 
 # Title, Author, Date, Output Format, Table of Contents
 
