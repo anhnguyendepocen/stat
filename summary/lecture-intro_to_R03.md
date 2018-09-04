@@ -14,7 +14,7 @@
 
 1. Slides:  [Tutorial Part (VI)](../lecture/intro-to-R_part6.Rmd)
 2. [In Calss Example](../lecture/examples/intro-to-R-markdown-example.Rmd)
-2. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): Chapters 1 an 2.1-2.6.
+3. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): Chapters 1 an 2.1-2.6.
 
 ### Datacamp Courses
 
@@ -22,6 +22,8 @@
 
 ### Useful Resources
 
-1. [Cheatsheets for R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-2. [Convert CSV to Markdown Tables](https://donatstudios.com/CsvToMarkdownTable)
-3. [Using R Markdown for Class Reports](http://www.stat.cmu.edu/~cshalizi/rmarkdown/)
+1. [Introduction to R Markdown on R Studio](https://rmarkdown.rstudio.com/lesson-1.html)
+2. [Cheatsheets for R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+3. [Convert CSV to Markdown Tables](https://donatstudios.com/CsvToMarkdownTable)
+4. [Using R Markdown for Class Reports](http://www.stat.cmu.edu/~cshalizi/rmarkdown/)
+5. [Set Figure Size in R Markdown](https://sebastiansauer.github.io/figure_sizing_knitr/)

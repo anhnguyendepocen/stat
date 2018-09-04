@@ -29,15 +29,17 @@
 
 1. Slides:  [Tutorial Part (III): ](../lecture/intro-to-R_part3.Rmd)
 2. Slides:  [Tutorial Part (IV): ](../lecture/intro-to-R_part4.pptx)
-3. Download folder organization template [here](../lecture/examples/teaching_folder_organization_template.R)
-4. Slides:  [Tutorial Part (V): ](../lecture/intro-to-R_part5.Rmd) 
-5. More examples for `quantmod()` [here](https://www.quantmod.com/examples/)
+    - Download R code used in slides before class:  [here](../lecture/intro-to-R_part4.R)
+    - Download folder organization template before class [here](../lecture/examples/teaching_folder_organization_template.R)
+3. Slides:  [Tutorial Part (V): ](../lecture/intro-to-R_part5.Rmd) 
+4. More examples for `quantmod()` [here](https://www.quantmod.com/examples/)
 
 ### Datacamp Courses
 
 #### Required
 1. [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-2. [Importanting Data in R (Part 1)](https://www.datacamp.com/courses/importing-data-in-r-part-1) Chapter 1
+2. [Intermediate R](https://campus.datacamp.com/courses/intermediate-r/): Conditionals and Control Flow; Functions (up to "required or optional"; Packages)
+4. [Importanting Data in R (Part 1)](https://www.datacamp.com/courses/importing-data-in-r-part-1) Chapter 1
 
 #### Advanced 
 
