@@ -29,7 +29,7 @@
 
 ## Required Readings
 
-1. [Slides: Intro](lecture/univariate_statistics_intro01.pdf)
-2. [Slides: Preliminaries for Forecasting](lecture/univariate_statistics_intro02.pdf)
+1. [Slides: Intro](../lecture/univariate_statistics_intro01.pdf)
+2. [Slides: Preliminaries for Forecasting](../lecture/univariate_statistics_intro02.pdf)
 3. LMW: Chapter 1. 
 4. FPP: Chapter 1.5
