@@ -3,7 +3,7 @@
 ## Detailed Topics to be covered
 
 **Part I**
-\bigskip
+
 1. What is Statistics? What is so unique about it?
 2. In Statistics, how do we characterize/describe the pattern? **Distribution**
 3. What does statistics involve?
@@ -16,7 +16,6 @@
     * Examples of Forecasts and Their Applications
 
 **Part II: Preliminaries for Forecasting**
-\bigskip
 
 1. Which type of Prediction is our focus?: 
     * Qualitative vs Quantitative
