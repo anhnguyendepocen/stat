@@ -39,7 +39,7 @@
 #### Required
 1. [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 2. [Intermediate R](https://campus.datacamp.com/courses/intermediate-r/): Conditionals and Control Flow; Functions (up to "required or optional"; Packages)
-4. [Importanting Data in R (Part 1)](https://www.datacamp.com/courses/importing-data-in-r-part-1) Chapter 1
+4. [Importing Data in R (Part 1)](https://www.datacamp.com/courses/importing-data-in-r-part-1) Chapter 1
 
 #### Advanced 
 

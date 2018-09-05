@@ -23,3 +23,8 @@
 
 1. Slides:  Introduction to Statistics: Time Series [Part 1](../lecture/econ5043_lecture1_univariate_statistics_intro03.pdf); [Part 2](../lecture/econ5043_lecture1_univariate_statistics_intro04.pdf); [Part 3](../lecture/econ5043_lecture1_univariate_statistics_intro05.pdf)
 2. Download R Examples: [Part 1](../lecture/examples/intro-to-stat01.R),  [Part 2](../lecture/examples/intro-to-stat02.R), and  [Part 3](../lecture/examples/intro-to-stat03.R) 
+
+
+#### Datacamp Courses
+
+1. [Intermediate R: Utilities: Times and Dates](https://www.datacamp.com/courses/intermediate-r)
