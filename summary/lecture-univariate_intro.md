@@ -3,7 +3,7 @@
 ## Detailed Topics to be covered
 
 **Part I**
-\bigskips
+\bigskip
 1. What is Statistics? What is so unique about it?
 2. In Statistics, how do we characterize/describe the pattern? **Distribution**
 3. What does statistics involve?
