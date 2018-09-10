@@ -12,12 +12,17 @@
 5. Our classification of statistics
 6. What do we need from statistics to decision making? (course title explained)
 7. Statisitcs-based Decision Making process
-8. Examples of Decision Making using Statistics
+4. What and How do we use statistics in Decision Making? Prediction 
+    * Forecasting an outcome of interest
+    * Causal Inference (e.g., Predict the consequences of a strategic move)
+    * Examples of Forecasts and Their Applications
+
 
 ## Reading and Useful Resources
 
 ### Required Readings
 
 1. Any statistics book on this issue, example, LMW Chapter 1. 
-2. Slides:  [Introduction to Statistics: A Broad Introduction](../lecture/econ5043_lecture1_univariate_statistics_intro01.pdf)
+2. FPP Chapter 1.5
+3. Slides:  [Introduction to Statistics: A Broad Introduction](../lecture/econ5043_lecture1_univariate_statistics_intro01.pdf)
 

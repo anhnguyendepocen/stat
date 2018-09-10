@@ -2,13 +2,15 @@
 
 ## Detailed Topics to be covered
 
-1. Two types of forecasts/predictions that we are interested in
-2. Types of Forecasts: Quantitative vs. Qualitative
-3. Quantitative Forecasts (Scientific or Art?)
-  - Data Types
-  - Variable Types
-  - Information
-4. What will determine the accuracy or performance of our forecasts?
+1. Which type of Prediction is our focus?: 
+    * Qualitative vs Quantitative
+    * Prediction: Scientific vs Art
+2. Types of Quantitative Forecasts
+    * By Data types
+    * By Variable types
+    * By Information
+3. What will determine the accuracy or performance of our forecasts?
+
 
 ## Reading and Useful Resources
 
