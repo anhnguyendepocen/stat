@@ -17,4 +17,4 @@
 ### Required Readings
 
 1. Any statistics book on this issue, example, LMW Chapter 1. 
-2. Slides:  [Introduction to Statistics: Something about Forecasting](../lecture/econ5043_lecture1_univariate_statistics_intro02.pdf)
+2. Slides:  [Introduction to Statistics: Something about Forecasting](../lecture/univariate_statistics_intro02.pdf)

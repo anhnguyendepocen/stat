@@ -24,5 +24,5 @@
 
 1. Any statistics book on this issue, example, LMW Chapter 1. 
 2. FPP Chapter 1.5
-3. Slides:  [Introduction to Statistics: A Broad Introduction](../lecture/econ5043_lecture1_univariate_statistics_intro01.pdf)
+3. Slides:  [Introduction to Statistics: A Broad Introduction](../lecture/univariate_statistics_intro01.pdf)
 
