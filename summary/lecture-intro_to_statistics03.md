@@ -30,3 +30,5 @@
 #### Datacamp Courses
 
 1. [Intermediate R: Utilities: Times and Dates](https://www.datacamp.com/courses/intermediate-r)
+2. [Data Visualization with ggplot2 (Part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+3. [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse): You can focus only on Chapters 2 and 4. but many of the topics from Chapters 1 and 3 are needed, too. 
