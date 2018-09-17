@@ -25,8 +25,9 @@
 
 ### Datacamp Courses
 
-1. [**Advanced**: Working with R Studio IDE (Part I)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1)
-2. [**Advanced**: Working with R Studio IDE (Part II)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-2)
+1. [Working with the RStudio IDE (Part 1)](https://campus.datacamp.com/courses/working-with-the-rstudio-ide-part-1): Finish Chapter 1 on **Orientation**.
+2. [**Advanced**: Working with R Studio IDE (Part I)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1)
+3. [**Advanced**: Working with R Studio IDE (Part II)](https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-2)
 
 ### Useful Resources
 
