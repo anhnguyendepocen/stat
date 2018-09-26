@@ -1,4 +1,4 @@
-# Introduction to Statistics (Part III)
+# Introduction to Probability Theory
 
 ## Detailed Topics to be covered
 
