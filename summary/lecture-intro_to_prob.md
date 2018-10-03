@@ -29,6 +29,9 @@
 
 1. Slides:  Introduction to Probability Theory [slides](../lecture/intro_prob.pdf)
 2. Download R Examples: [here](../lecture/examples/intro_prob_R_examples.R) and Data for the example [here](../lecture/examples/FLVoters.csv)
+3. Chapter 5 in Lind et al. (basics on pages 131-145; counting on pages 160-166)
+4. [Penn State Stat 414: Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/287/) Lessons 2 and 3.
+5. [Introduction to Probability: Chapter 2 Counting](https://www.probabilitycourse.com/chapter2/2_1_0_counting.php)
 
 
 ### Visualize Concepts
