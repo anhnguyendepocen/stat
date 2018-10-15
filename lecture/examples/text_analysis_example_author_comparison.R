@@ -38,8 +38,12 @@ stop_words
 hgwell.tidy <- anti_join(hgwells.token,stop_words)
 #                        ~~~~~~~~~~~~~
 
+# Returns the rows of the first data where it canNOT find a match in the second data
+# Cheat Sheet:https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 ?anti_join()
 
+# More about commands to merge data
+# http://stat545.com/bit001_dplyr-cheatsheet.html
 
 # 2-3 can be combined using pipe operator 
 tidy_hgwells <- hgwells %>%
