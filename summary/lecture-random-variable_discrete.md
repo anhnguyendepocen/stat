@@ -42,4 +42,5 @@
 1. [Penn State Stat 484: Topics in R Statistical Language Lesson 2.1-2.6](https://onlinecourses.science.psu.edu/stat484/node/210/)
 2. [R for Data Science: Chapter 15 Factors](http://r4ds.had.co.nz/factors.html)
 3. [Introduction to `ipumsr` - IPUMS Data in R](https://cran.r-project.org/web/packages/ipumsr/vignettes/ipums.html)
+4. [Factor Variable: Example in Finance](https://www.datacamp.com/community/tutorials/intro-r-finance-factors)
 

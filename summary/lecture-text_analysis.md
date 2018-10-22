@@ -8,6 +8,7 @@
 
 3. Sentiment Analysis with Twitter [R example file](../lecture/examples/text_analysis_example_sentiment_Twitter.R)
 
+4. Various Joins command to merge and filter data [R example](../lecture/examples/example_dplyr_joins.R)
 
 ## Recommended Reading
 
