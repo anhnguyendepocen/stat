@@ -10,6 +10,13 @@
 
 4. Various Joins command to merge and filter data [R example](../lecture/examples/example_dplyr_joins.R)
 
+## Datacamp Courses
+
+1. [Joining Data in R with dplyr](https://campus.datacamp.com/courses/joining-data-in-r-with-dplyr/)
+
 ## Recommended Reading
 
 1. [Text Mining with R: Chapter 2 Sentiment Analysis with Tidy Data](https://www.tidytextmining.com/sentiment.html)
+
+2. [R for Data Science: Relational Data](http://r4ds.had.co.nz/relational-data.html)
+
