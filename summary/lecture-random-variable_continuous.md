@@ -33,6 +33,6 @@
 1. [Slides](../lecture/univariate_statistics_continous_var01.pdf)
 2. [R Example: Continuous Variable (Part I)](../lecture/examples/continuous_variables_01.Rmd)
 3. [R Example: Value at Risk](../lecture/examples/continuous_variables_02_VaR.Rmd)
-4. [R Example: Boxplot](../lecture/examples/continuous_variables_03_boxplot.Rmd)
+4. [R Example: Boxplot](../lecture/examples/continuous_variables_03_Boxplot.Rmd)
 
 
