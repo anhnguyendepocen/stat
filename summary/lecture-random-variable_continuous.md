@@ -24,11 +24,15 @@
 
     1. Value at Risk (VaR)
 
+9. Boxplot: Another way to visualize important distribution features. 
+
 ## Reading and Useful Resources
 
 ### Required Readings
 
 1. [Slides](../lecture/univariate_statistics_continous_var01.pdf)
-2. [R Example: Continuous Variable (Part I)](../lecture/examples/discrete_variable_basics.Rmd)
-3. [R Example: Value at Risk](../lecture/examples/discrete_variable_factor_basics.R)
+2. [R Example: Continuous Variable (Part I)](../lecture/examples/continuous_variables_01.Rmd)
+3. [R Example: Value at Risk](../lecture/examples/continuous_variables_02_VaR.Rmd)
+4. [R Example: Boxplot](../lecture/examples/continuous_variables_03_boxplot.Rmd)
+
 
