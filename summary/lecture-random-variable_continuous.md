@@ -18,13 +18,14 @@
 6. Different ways to visualize the pdf in `R`. 
     1. Traditional approach
     2. Tidy approach
+7. Kernel Density Estimation
 
-7. What is **Quantile**? A rigorous definition of **quantile**.
-8. Application in Risk Management
+8. What is **Quantile**? A rigorous definition of **quantile**.
+9. Application in Risk Management
 
     1. Value at Risk (VaR)
 
-9. Boxplot: Another way to visualize important distribution features. 
+10. Boxplot: Another way to visualize important distribution features. 
 
 ## Reading and Useful Resources
 
@@ -32,7 +33,8 @@
 
 1. [Slides](../lecture/univariate_statistics_continous_var01.pdf)
 2. [R Example: Continuous Variable (Part I)](../lecture/examples/continuous_variables_01.Rmd)
-3. [R Example: Value at Risk](../lecture/examples/continuous_variables_02_VaR.Rmd)
-4. [R Example: Boxplot](../lecture/examples/continuous_variables_03_Boxplot.Rmd)
+3. [R Example: Kernel Density Estimation](../lecture/examples/continuous_variables_01_kde.R)
+4. [R Example: Value at Risk](../lecture/examples/continuous_variables_02_VaR.Rmd)
+5. [R Example: Boxplot](../lecture/examples/continuous_variables_03_Boxplot.Rmd)
 
 
