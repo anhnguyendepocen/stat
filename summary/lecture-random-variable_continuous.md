@@ -7,7 +7,7 @@
 1. What is the issue when we study a continuous variable? Why is it different from a discrete variable? 
 2. What are the possible solutions?
 
-### Approach 1. Approximation and Complete Distribution Approach
+## Approach 1. Approximation and Complete Distribution Approach
 
 1. How to approximate? Discretize a continuous variable
 2. What is a **frequency distribution**?
@@ -18,7 +18,7 @@
 6. Different ways to visualize the pdf in `R`. 
     1. Traditional approach
     2. Tidy approach
-7. Kernel Density Estimation
+7. **Kernel Density Estimation** and **numerical derivation**
 
 8. What is **Quantile**? A rigorous definition of **quantile**.
 9. Application in Risk Management
