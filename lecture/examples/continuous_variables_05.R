@@ -1,0 +1,46 @@
+# This program illustrates how to estimate 
+# 1. Variance and Semi-variance
+# 2. Skewness and Kurtosis
+
+
+
+# Variance
+
+x1 <- c(-10,0,10)
+x2 <- c(-100,0,100)
+
+mean(x1);mean(x2)
+median(x1);median(x2)
+var(x1);var(x2)
+
+
+# Semi-variance (focusing on the lower tail)
+x1 <- rnorm(1000)
+sum(x1[x1 < mean(x1)]-mean(x1))^2/length(x1[x1<mean(x1)])
+
+var(x1)
+
+
+
+# Skewness
+
+library(moments)
+x5<-c(-10,0,10, 100)
+x6<-c(-100,-10,0,10)
+
+mean(x5)
+median(x5)
+
+mean(x5)
+median(x6)
+
+# Calculate skewness
+skewness(x5)
+skewness(x6)
+
+# Kurtosis 
+
+kurtosis.data <- rnorm(100)
+plot(density(kurtosis.data))
+
+kurtosis(kurtosis.data)
