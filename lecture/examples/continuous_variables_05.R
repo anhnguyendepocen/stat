@@ -1,6 +1,7 @@
 # This program illustrates how to estimate 
 # 1. Variance and Semi-variance
 # 2. Skewness and Kurtosis
+# 3. Government Intervention
 
 
 
@@ -44,3 +45,20 @@ kurtosis.data <- rnorm(100)
 plot(density(kurtosis.data))
 
 kurtosis(kurtosis.data)
+
+
+
+# Government Intervention
+
+set.seed(123456)
+return<- rnorm(50)
+return
+
+var(return)
+
+# Let's add more investment opportunites with zero returns
+return2<- c(return, rep(0,50))
+return2
+
+var(return)
+var(return2)
