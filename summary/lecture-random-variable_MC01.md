@@ -2,7 +2,7 @@
 
 ## Detailed Topics to be covered
 
-### Introduction to Monte Carlo Simulation
+### Part I. Introduction to Monte Carlo Simulation
 
 1. The Purpose of Monte Carlo Simulation and The Very Brief Account of Its Historical Development
 2. Philosophical Debate over Randomness (Frequency vs. Subjective)
@@ -17,7 +17,7 @@
 1. [Slides on Intro to MC simulation](../lecture/MC01.pdf)
 2. [R Example](../lecture/examples/MC01.R)
 
-### Discrete Variable
+### Part II. Discrete Variable
 
 1. Brief intro to probability functions in R
 2. Binomial Distribution
