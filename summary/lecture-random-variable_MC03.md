@@ -22,6 +22,6 @@
 
 1. [Slides on Various Distributions](../lecture/MC04.pdf)
 2. [R Example: Visualize the distribution of Sample Variance](../lecture/examples/MC05.Rmd)
-3. ![Visualize various distributions](https://seeing-theory.brown.edu/probability-distributions/index.html#%23section2)
+3. [Visualize various distributions](https://seeing-theory.brown.edu/probability-distributions/index.html#%23section2)
 
 
